@@ -1,0 +1,31 @@
+Number of items in the list: 15
+Item 1: HTC Touch HD
+$146.00
+Item 2: Palm Treo Pro
+$337.99
+Item 3: Canon EOS 5D
+$134.00
+Item 4: Nikon D300
+$98.00
+Item 5: iPod Touch
+$194.00
+Item 6: Samsung SyncMaster 941BW
+$242.00
+Item 7: iPod Shuffle
+$182.00
+Item 8: iPod Nano
+$122.00
+Item 9: iPhone
+$123.20
+Item 10: iMac
+$170.00
+Item 11: Apple Cinema 30"
+$122.00
+Item 12: MacBook
+$602.00
+Item 13: MacBook Air
+$1,202.00
+Item 14: MacBook Pro
+$2,000.00
+Item 15: Sony VAIO
+$1,202.00
