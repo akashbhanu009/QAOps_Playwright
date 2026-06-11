@@ -1,0 +1,3 @@
+[submodule "QAOps_Playwright"]
+	path = QAOps_Playwright
+	url = https://github.com/akashbhanu009/QAOps_Playwright.git

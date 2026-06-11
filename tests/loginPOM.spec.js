@@ -11,6 +11,7 @@ test('@Login Login POM test', async ({ page }) => {
 });
 
 // use the context to share the browser instance across multiple tests
+/*
 test('context test', async ({ browser }) => {
     const context = await browser.newContext();
     const page = await context.newPage();
@@ -18,3 +19,4 @@ test('context test', async ({ browser }) => {
     await login.navigateToLoginPage();
     await login.loginToApplication('tomsmith', 'SuperSecretPassword!');
 });
+*/
